@@ -1,0 +1,4 @@
+run = "python py/nim.py"
+
+[nix]
+channel = "stable-21_11"
