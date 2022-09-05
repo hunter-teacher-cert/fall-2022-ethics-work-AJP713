@@ -1,4 +1,4 @@
-run = "python py/nim.py"
+run = "python3 nim.py"
 
 [nix]
 channel = "stable-21_11"
