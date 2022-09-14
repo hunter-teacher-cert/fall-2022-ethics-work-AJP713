@@ -1,5 +1,6 @@
-# Game of Life
+# gol.py
 # Adam Prado
+# CSCI 77800 Fall 2022
 # 9/5/22
 
 import random

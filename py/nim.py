@@ -1,5 +1,6 @@
-# Game of Nim
+# nim.py
 # Adam Prado
+# CSCI 77800 Fall 2022
 # 9/4/22
 # This code plays the game of Nim against a computer.  The starting stones is 12 and then each player selects a number from 1 to 3.  Whomever takes the last stone wins. 
 # Currently the computer selects a number 1 to 3 randomly. 
